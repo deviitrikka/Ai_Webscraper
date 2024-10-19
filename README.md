@@ -61,8 +61,8 @@ v. Useful for students, researchers, and developers working with web automation 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/AI-WebScraper.git
-cd AI-WebScraper
+git clone https://github.com/devitrika/Ai_WebScraper.git
+cd Ai_WebScraper
 
 # Create and activate a virtual environment
 python -m venv env
@@ -71,10 +71,8 @@ source env/bin/activate  # On Windows: env\Scripts\activate
 # Install required packages
 pip install -r requirements.txt
 
-# Set up MongoDB and configure credentials in config.py
-
 # Start the web app
-streamlit run app.py
+streamlit run main.py
 ```
 ## Known Issues 🚧
 - If encountering `Selenium WebDriverException`, ensure ChromeDriver matches your browser version.  
@@ -107,6 +105,7 @@ Pull requests are welcome! For major changes, please open an issue to discuss pr
 ---
 
 ## Acknowledgements 🎉
+- under the guidance of Mr. Tim Ruscica
 - [BeautifulSoup Documentation](https://beautiful-soup-4.readthedocs.io/)  
 - [Selenium Documentation](https://www.selenium.dev/documentation/)  
 
