@@ -1,7 +1,7 @@
-# Ai_Webscraper
+# <p align="justify">🌐 Ai_Webscraper 🌐 </p>
 ## About the Project 🤖
 <div align="center">  <p align="justify"> This AI Webscraper captures content from any website by scraping all the DOM elements. It then allows users to input queries that are intelligently handled by a language model (LLM), offering relevant and structured responses based on the scraped content. Whether for automated data extraction or dynamic analysis, the tool simplifies how users interact with web data. </p> </div>
-```markdown
+```
 
 ## Scope 🌐
 i. Extract all elements from a web page and convert them into structured formats (HTML, CSV, JSON).  
