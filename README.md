@@ -1,6 +1,6 @@
 # Ai_Webscraper
 ## About the Project 🤖
-<div align="center"> <br/><img src="https://your-screenshot-url.com/main.png" alt="screenshot" /><br/><br/> <p align="justify"> This AI Webscraper captures content from any website by scraping all the DOM elements. It then allows users to input queries that are intelligently handled by a language model (LLM), offering relevant and structured responses based on the scraped content. Whether for automated data extraction or dynamic analysis, the tool simplifies how users interact with web data. </p> </div>
+<div align="center">  <p align="justify"> This AI Webscraper captures content from any website by scraping all the DOM elements. It then allows users to input queries that are intelligently handled by a language model (LLM), offering relevant and structured responses based on the scraped content. Whether for automated data extraction or dynamic analysis, the tool simplifies how users interact with web data. </p> </div>
 ```markdown
 
 ## Scope 🌐
@@ -49,12 +49,6 @@ v. Useful for students, researchers, and developers working with web automation 
 - Input any website URL for scraping.  
 - Parse and display the entire DOM structure.  
 - Query specific content via LLM-powered prompt.  
-- Export scraped data into various formats (CSV/JSON).  
-
-### Admin Functions:
-- Monitor scraped data usage and query logs.  
-- View user statistics and feedback.  
-- Download query and usage reports in CSV.  
 
 ---
 
@@ -92,8 +86,6 @@ streamlit run app.py
 1. Enter a URL in the input field and click **Scrape**.  
 2. View parsed elements in the **DOM Viewer**.  
 3. Ask questions about the content using the **LLM Query** feature.  
-4. Download results in **CSV** or **JSON** format.  
-
 ---
 
 ## Roadmap 🚀
@@ -115,7 +107,6 @@ Pull requests are welcome! For major changes, please open an issue to discuss pr
 ---
 
 ## Acknowledgements 🎉
-- [Your Mentor’s Name] for project guidance  
 - [BeautifulSoup Documentation](https://beautiful-soup-4.readthedocs.io/)  
 - [Selenium Documentation](https://www.selenium.dev/documentation/)  
 
