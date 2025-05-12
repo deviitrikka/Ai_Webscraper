@@ -27,7 +27,6 @@ v. Useful for students, researchers, and developers working with web automation 
 <summary>Backend</summary>  
 <ul>  
 <li><a href="https://www.python.org/">Python</a></li>  
-<li><a href="https://flask.palletsprojects.com/">Flask</a></li>  
 </ul>  
 </details>  
 
@@ -37,7 +36,6 @@ v. Useful for students, researchers, and developers working with web automation 
 <li><a href="https://beautiful-soup-4.readthedocs.io/">BeautifulSoup</a></li>  
 <li><a href="https://pandas.pydata.org/">pandas</a></li>  
 <li><a href="https://www.selenium.dev/">Selenium</a></li>  
-<li><a href="https://www.openai.com/">OpenAI API</a></li>  
 </ul>  
 </details>  
 
@@ -85,13 +83,6 @@ streamlit run main.py
 2. View parsed elements in the **DOM Viewer**.  
 3. Ask questions about the content using the **LLM Query** feature.  
 ---
-
-## Roadmap 🚀
-- [ ] Add support for CSV/JSON exports.  
-- [ ] Integrate OpenAI’s GPT for query handling.  
-- [ ] Add OAuth-based user login.  
-- [ ] Enhance UI for mobile devices.  
-
 ---
 
 ## Contributing 🤝
